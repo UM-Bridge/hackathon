@@ -35,9 +35,9 @@ All times in CET (GMT+1).
 
 | Time | Session |
 | --- | --- |
-| 9:00 | Welcome and introduction of participants |
-| 9:30 | Participants Projects |
-| 12:00 | Lunch break |
-| 13:00 | Short talk |
-| 14:00 | Participants Projects |
+| 10:00 | Welcome and introduction of participants |
+| 10:30 | Participants Projects |
+| 13:00 | Lunch break |
+| 14:00 | Short talk |
+| 14:30 | Participants Projects |
 | 17:00 | Wrap-up |
